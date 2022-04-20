@@ -1,5 +1,5 @@
 <h3 align="center">wannabe c dev</h3>
-<p align="center">*nix - c - sysadmin</p>
+<p align="center">*nix - c - sysadmin - infosec</p>
 <!--
 **nikbott/nikbott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
