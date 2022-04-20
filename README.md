@@ -1,4 +1,4 @@
-### wannabe c dev
+<h3 align="center">wannabe c dev</h3>
 
 <!--
 **nikbott/nikbott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
